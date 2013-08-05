@@ -1,5 +1,3 @@
 SeaWars
-=======
-user alexander.chooley@gmail.com
-
-SeaWar2
+=====
+test from Home
